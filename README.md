@@ -28,7 +28,6 @@
 <a href="mailto:nikhil.madaravena@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=Nikhil-Madaravena&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
