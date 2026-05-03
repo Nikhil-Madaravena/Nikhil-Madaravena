@@ -1,120 +1,198 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello!%20I'm%20Nikhil%20Madaravena&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineer&descAlignY=51&descAlign=62" width="100%" alt="Header" />
-</div>
+<!-- ====================================================================
+     NIKHIL MADARAVENA — GitHub Profile README
+     Theme: VS Code Dark / Terminal Programming
+     ==================================================================== -->
 
-<h3 align="center">Building scalable, secure, and high-performance applications with optimized architectures.</h3>
-
 <div align="center">
-  <a href="https://nikhil-madaravena.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-%F0%9F%94%8E-blueviolet?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/nikhil-madaravena/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:nikhil.madaravena@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ HERO BANNER ░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a1a2e,100:16213e&height=300&section=header&text=%3E_%20Nikhil%20Madaravena&fontSize=64&fontColor=00ff88&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=56&descAlign=50&descColor=7dd3fc&fontFamily=monospace" width="100%" />
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ TERMINAL TYPING ░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=660&height=48&lines=const+stack+%3D+%5B'Java'%2C+'Python'%2C+'Rust'%2C+'TypeScript'%5D;%2F%2F+Spring+Boot+%7C+FastAPI+%7C+Django+%7C+React;git+commit+-m+%22feat%3A+ship+scalable+systems%22;console.log(%22Building+the+future...%22)" alt="Typing SVG" />
 
 <br/>
 
+<!-- ░░░░░░░░░░░░░░░░░░░░ ANIMATED DIVIDER ░░░░░░░░░░░░░░░░░░░░ -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ SOCIAL LINKS ░░░░░░░░░░░░░░░░░░░░ -->
+<a href="https://nikhil-madaravena.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-00FF88?style=for-the-badge&logo=vercel&logoColor=0d1117" />
+</a>
+<a href="https://www.linkedin.com/in/nikhil-madaravena/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:nikhil.madaravena@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Nikhil-Madaravena&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░ -->
+
 <table>
-  <tr>
-    <td width="60%" valign="top">
-      <h2>👨‍💻 About Me</h2>
-      <ul>
-        <li>🎓 Currently pursuing a <b>B.Tech in Computer Science and Engineering</b> at KITSW (2023–2027).</li>
-        <li>🚀 <b>Full Stack Developer & Systems Engineer</b> with expertise in <b>Java, Spring Boot, React.js, and RESTful APIs</b>.</li>
-        <li>💡 Experienced in building scalable, secure, and high-performance microservices alongside dynamic, interactive frontends.</li>
-        <li>🧠 Strong foundation in <b>Data Structures, Algorithms, System Design, DBMS, and OS</b>. Scored <b>100% in Programming</b> and 84.30% overall in TCS NQT.</li>
-        <li>🏆 <b>Achievements:</b> NASA Space Apps Challenge (Local Nominee), Winner of CODE4KITSW, and HackerRank Gold in C & Silver in Java.</li>
-      </ul>
-    </td>
-    <td width="40%" align="center">
-      <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Developer Coding" width="100%" style="border-radius: 10px; border: 1px solid rgba(255,255,255,0.1); box-shadow: 0 4px 30px rgba(0, 0, 0, 0.5);" />
-    </td>
-  </tr>
+<tr>
+<td width="56%" valign="top">
+
+```ts
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// developer.profile.ts
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const nikhil = {
+  name     : "Nikhil Madaravena",
+  role     : "Full Stack Developer",
+  degree   : "B.Tech CSE @ KITSW '27",
+  focus    : ["Microservices", "Cloud-Native",
+              "System Design", "AI/ML"],
+
+  exploring: ["Rust", "Web3", "LLM APIs"],
+
+  achievements: [
+    "NASA Space Apps — Local Nominee",
+    "Winner of CODE4KITSW",
+    "TCS NQT — 100% Programming",
+    "HackerRank Gold in C",
+  ],
+
+  funFacts : {
+    fuel     : "Coffee + Clean Code",
+    hobby    : "Football",
+    mantra   : "Ship fast, refactor smarter",
+  },
+};
+
+export default nikhil;
+```
+
+</td>
+<td width="44%" align="center" valign="middle">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Madaravena&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&hide_title=true&icon_color=00ff88&text_color=7dd3fc" width="100%" />
+
+</td>
+</tr>
 </table>
 
 ---
 
-## 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" valign="top" width="25%">
-        <b>💻 Languages</b><br><br>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br>
-        <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" /><br>
-        <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" /><br>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /><br>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /><br>
-        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /><br>
-        <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
-      </td>
-      <td align="center" valign="top" width="25%">
-        <b>⚙️ Backend</b><br><br>
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /><br>
-        <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" /><br>
-        <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" alt="Spring Security" /><br>
-        <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate" /><br>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" /><br>
-        <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-      </td>
-      <td align="center" valign="top" width="25%">
-        <b>🎨 Frontend</b><br><br>
-        <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><br>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" /><br>
-        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /><br>
-        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /><br>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /><br>
-        <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js" /><br>
-        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js" /><br>
-        <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
-      </td>
-      <td align="center" valign="top" width="25%">
-        <b>🗄️ Database & Tools</b><br><br>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /><br>
-        <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /><br>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /><br>
-        <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /><br>
-        <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /><br>
-        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /><br>
-        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /><br>
-        <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
-## 📈 GitHub Metrics
+<!-- ░░░░░░░░░░░░░░░░░░░░ TECH ARSENAL ░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=radical&hide_border=true" alt="Nikhil's GitHub Streak" />
-  <br/>
-</div>
+## `{ Tech Arsenal }`
 
----
+<!-- Languages -->
+```
+// Languages
+```
+<img src="https://skillicons.dev/icons?i=java,py,rust,js,ts,c,php&theme=dark&perline=7" />
 
-## 🚀 Let's Build Something Awesome!
+<!-- Backend -->
+```
+// Backend & API Frameworks
+```
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,flask,nodejs,express&theme=dark&perline=6" />
 
-I am always open to discussing new projects, creative ideas, or opportunities to be part of your vision. 
+<!-- Frontend -->
+```
+// Frontend & UI
+```
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs,figma&theme=dark&perline=7" />
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/7lovescode/7lovescode/master/Images/developer.gif" alt="Premium Developer Animation" width="250" />
-  <br/><br/>
-  <a href="https://www.linkedin.com/in/nikhil-madaravena/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:nikhil.madaravena@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://nikhil-madaravena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-</div>
+<!-- Databases -->
+```
+// Databases
+```
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb&theme=dark&perline=6" />
+
+<!-- Cloud & DevOps -->
+```
+// Cloud · DevOps · Media
+```
+<img src="https://skillicons.dev/icons?i=firebase,docker,git,github,postman,vercel&theme=dark&perline=6" />
 
 <br/>
 
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white" />
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=0d1117" />
+<img src="https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white" />
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" />
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ GITHUB METRICS ░░░░░░░░░░░░░░░░░░░░ -->
+
 <div align="center">
-  <i>"Code is poetry, and I strive to write every line beautifully."</i>
+
+## `$ git log --stats`
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Madaravena&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=00ff88" width="40%" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake.svg" width="100%" />
+</picture>
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+## `$ git log --graph --oneline`
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Madaravena&bg_color=0d1117&color=00ff88&line=7dd3fc&point=ffffff&area_color=0f2027&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br/>
+
+```
+> console.log("I don't just write code — I architect digital experiences that scale.");
+```
+
+<br/>
+
+<a href="https://www.linkedin.com/in/nikhil-madaravena/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:nikhil.madaravena@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+&nbsp;
+<a href="https://nikhil-madaravena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=0d1117" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
+
 </div>
