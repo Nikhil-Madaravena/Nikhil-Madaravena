@@ -60,12 +60,6 @@ const nikhil = {
     "TCS NQT — 100% Programming",
     "HackerRank Gold in C",
   ],
-
-  funFacts : {
-    fuel     : "Coffee + Clean Code",
-    hobby    : "Football",
-    mantra   : "Ship fast, refactor smarter",
-  },
 };
 
 export default nikhil;
@@ -77,8 +71,6 @@ export default nikhil;
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px" />
 
 <br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Nikhil-Madaravena&show_icons=true&theme=github_dark_dimmed&hide_border=true&count_private=true&hide_title=true&icon_color=00ff88&text_color=7dd3fc" width="100%" />
 
 </td>
 </tr>
