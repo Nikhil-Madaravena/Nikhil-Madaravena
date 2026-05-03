@@ -38,7 +38,7 @@
 
 <table>
 <tr>
-<td width="56%" valign="top">
+<td width="50%" valign="top">
 
 ```ts
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -66,7 +66,7 @@ export default nikhil;
 ```
 
 </td>
-<td width="44%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius:8px" />
 
