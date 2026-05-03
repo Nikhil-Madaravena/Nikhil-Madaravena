@@ -30,13 +30,9 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=Nikhil-Madaravena&color=00ff88&style=for-the-badge&label=PROFILE+VIEWS" />
 
-<br/><br/>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
 </div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ ABOUT ME ░░░░░░░░░░░░░░░░░░░░ -->
 
@@ -145,31 +141,9 @@ export default nikhil;
 ## `$ git log --stats`
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil-Madaravena&theme=github-dark-blue&hide_border=true&ring=00ff88&fire=00ff88&currStreakLabel=7dd3fc&sideLabels=7dd3fc&dates=888" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil-Madaravena&layout=compact&theme=github_dark_dimmed&hide_border=true&langs_count=8&title_color=00ff88" width="40%" />
-
-<br/><br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/Nikhil-Madaravena/Nikhil-Madaravena/output/github-contribution-grid-snake.svg" width="100%" />
-</picture>
 
 </div>
 
----
-
-<!-- ░░░░░░░░░░░░░░░░░░░░ ACTIVITY GRAPH ░░░░░░░░░░░░░░░░░░░░ -->
-
-<div align="center">
-
-## `$ git log --graph --oneline`
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nikhil-Madaravena&bg_color=0d1117&color=00ff88&line=7dd3fc&point=ffffff&area_color=0f2027&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░ -->
 
@@ -190,8 +164,6 @@ export default nikhil;
 <a href="mailto:nikhil.madaravena@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://nikhil-madaravena.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-00FF88?style=flat-square&logo=vercel&logoColor=0d1117" /></a>
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a1a2e,100:16213e&height=100&section=footer" width="100%" />
 
