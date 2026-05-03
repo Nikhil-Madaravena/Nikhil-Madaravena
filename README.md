@@ -6,10 +6,10 @@
 <div align="center">
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ HERO BANNER ░░░░░░░░░░░░░░░░░░░░ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a1a2e,100:16213e&height=300&section=header&text=%3E_%20Nikhil%20Madaravena&fontSize=64&fontColor=00ff88&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%7C%20Systems%20Engineer%20%7C%20Open%20Source%20Contributor&descAlignY=56&descAlign=50&descColor=7dd3fc&fontFamily=monospace" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0f2027,60:1a1a2e,100:16213e&height=250&section=header&text=%3E_%20Nikhil%20Madaravena&fontSize=56&fontColor=00ff88&animation=fadeIn&fontAlignY=40&descAlignY=56&descAlign=50&descColor=7dd3fc&fontFamily=monospace" width="100%" />
 
 <!-- ░░░░░░░░░░░░░░░░░░░░ TERMINAL TYPING ░░░░░░░░░░░░░░░░░░░░ -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=660&height=48&lines=const+stack+%3D+%5B'Java'%2C+'Python'%2C+'Rust'%2C+'TypeScript'%5D;%2F%2F+Spring+Boot+%7C+FastAPI+%7C+Django+%7C+React;git+commit+-m+%22feat%3A+ship+scalable+systems%22;console.log(%22Building+the+future...%22)" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00FF88&center=true&vCenter=true&width=660&height=48&lines=const+stack+%3D+%5B'Java'%2C+'Python'%2C+'Rust'%2C+'TypeScript'%5D;%2F%2F+Spring+Boot+%7C+FastAPI+%7C+Django+%7C+Node.js;git+commit+-m+%22feat%3A+ship+scalable+systems%22;console.log(%22Building+the+future...%22)" alt="Typing SVG" />
 
 <br/>
 
